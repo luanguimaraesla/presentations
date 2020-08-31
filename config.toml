@@ -1,10 +1,12 @@
-baseURL = "https://slide.l2n.me"
+baseURL = "https://slides.l2n.me"
 languageCode = "en-us"
 title = "Luan's presentations"
 disableKinds = ["sitemap", "RSS"]
 theme = "hugo-webslides"
 tags = ["slide", "presentation", "responsive", "landing page"]
 features = ["webslides.js", "pre-made template", "shortcodes"]
+
+publishDir = "docs/"
 
 [params]
   author = "Luan Guimarães"
