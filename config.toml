@@ -1,0 +1,31 @@
+baseURL = "https://slide.l2n.me"
+languageCode = "en-us"
+title = "Luan's presentations"
+disableKinds = ["sitemap", "RSS"]
+theme = "hugo-webslides"
+tags = ["slide", "presentation", "responsive", "landing page"]
+features = ["webslides.js", "pre-made template", "shortcodes"]
+
+[params]
+  author = "Luan Guimarães"
+  homepage = "l2n.me"
+
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
