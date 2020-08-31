@@ -20,9 +20,9 @@ bg = "bg-gradient-h"
 - <div><h2>{{< svg fa-cubes >}}Micro serviços</h2>Separando jogos em serviços.</div>
 - <div><h2>{{< svg fa-linux >}}Infraestrutura</h2>Cloud, contêineres e outros conceitos.</div>
 - <div><h2>{{< svg fa-sitemap >}}Orquestração</h2>Gerenciando muitos contêineres.</div>
-- <div><h2>{{< svg fa-diamond >}}Partes essenciais</h2>Pitaya, Maestro e Matchmaker.</div>
+- <div><h2>{{< svg fa-diamond >}}Partes essenciais</h2>Pitaya e Maestro.</div>
 - <div><h2>{{< svg fa-line-chart >}}Problemas e soluções</h2>Alguns desafios interessantes.</div>
-- <div><h2>{{< svg fa-magic >}}Data, Backend e SRE</h2>Alguns times no backstage.</div>
+- <div><h2>{{< svg fa-magic >}}Data, Backend e Infra</h2>Alguns times no backstage.</div>
 
 ---
 
@@ -97,7 +97,7 @@ Cloud computing ou computação em nuvem é a entrega da computação como um se
 
 ## O que é uma plataforma de cloud?
 
-São recursos e serviços oferecidos por empresas especializadas em computação em nuvem. Esses produtos vão de de tecnologias de infraestrutura, como computação, armazenamento e bancos de dados, a tecnologias emergentes como machine learning e Internet das Coisas. 
+São recursos e serviços oferecidos por empresas especializadas em computação em nuvem. Esses produtos vão de tecnologias de infraestrutura, como computação, armazenamento e bancos de dados, a tecnologias emergentes como machine learning e Internet das Coisas. 
 
 ![](/images/00_cloudc.png)
 
@@ -213,7 +213,7 @@ Também conhecido como K8s, é um sistema de código aberto para automatizar a i
 
 ### **Pitaya**
 
-Pitaya é um framework para contrução de servidor de jogos, simples, rápido, leve e com bibliotecas de cliente para iOS, Android, Unity e outros.
+Pitaya é um framework para construção de servidores de jogos, simples, rápido, leve e com bibliotecas de cliente para iOS, Android, Unity e outros.
 
 ---
 
@@ -253,7 +253,7 @@ Como reduzir a latência em jogos com escalas mundiais?
 
 Para reduzir a latência média dos usuários, existem vários clusters Kubernetes com suas respectivas salas de jogos que atendem os usuários mais próximos.
 
-Essa malha global de serviços é interligada por meio de tecnologias de rede modernas, que permitem com que essas regiões conversem entre si.
+Essa malha global de serviços é interligada por meio de tecnologias de rede modernas, que permitem que essas regiões conversem entre si.
 
 |||
 
@@ -262,7 +262,7 @@ Essa malha global de serviços é interligada por meio de tecnologias de rede mo
 ---
 
 <!--: .wrap -->
-<div><h2>{{< svg fa-magic >}}Data, Backend e SRE</h2>Alguns times no backstage.</div>
+<div><h2>{{< svg fa-magic >}}Data, Backend e Infraestrutura</h2>Alguns times no backstage.</div>
 
 ---
 
