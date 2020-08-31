@@ -271,3 +271,5 @@ Essa malha global de serviços é interligada por meio de tecnologias de rede mo
 ## Obrigado
 
 luan.guimaraes@wildlifestudios.com
+
+## [{{< svg fa-github >}}](https://github.com/luanguimaraesla/)
